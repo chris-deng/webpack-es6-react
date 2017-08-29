@@ -1,0 +1,18 @@
+.container{
+  width:400px;
+  height: 200px;
+  border: 1px solid red;
+  margin: 50px auto;
+  p{
+    line-height: 30px;
+    color: green;
+  }
+
+}
+#clickBtn{
+  width: 280px;
+  height: 30px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}

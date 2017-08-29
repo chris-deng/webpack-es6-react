@@ -1,0 +1,7 @@
+{
+  "initPage" : true,
+  "api": {
+    "protocol": "https",
+    "domain": "dymanagedev.dz11.com"
+  }
+}
