@@ -1,0 +1,29 @@
+{
+  "data": 200,
+  "leftMenuList": [
+    {
+      "name": "cata01",
+      "linkTo": "/cata01",
+      "subMenu": [
+        {
+          "name": "二级目录--001",
+          "linkTo": "/cata01/subCate01"
+        },
+        {
+          "name": "二级目录--002",
+          "linkTo": "/cata01/subCate02"
+        }
+      ]
+    },
+    {
+      "name": "一级目录二",
+      "linkTo": "/cata02",
+      "subMenu": [
+        {
+          "name": "二级目录2--002",
+          "linkTo": "/cata02/subCate02"
+        }
+      ]
+    }
+  ]
+}

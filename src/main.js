@@ -1,6 +1,9 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import HeadCon from 'page/HeadCon';
+import { Router, hashHistory } from 'react-router';
+import './styles/common.scss';
+import routes from './routes';
 
-ReactDOM.render(<HeadCon />, document.getElementById('app'));
+
+ReactDOM.render(<Router routes={routes} history={hashHistory} />, document.getElementById('app'));

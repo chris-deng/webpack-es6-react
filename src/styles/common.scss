@@ -5,6 +5,12 @@
 body{
   margin:0;
   padding:0;
-  background: lightblue;
 }
 
+ul {
+  list-style: none;
+  padding-left: 15px;
+  li {
+    line-height: 30px;
+  }
+}
